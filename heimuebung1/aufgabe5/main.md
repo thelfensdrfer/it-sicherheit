@@ -9,4 +9,4 @@
     
     mit |x| = |m_0|. Nun wird die zweite Hälfte von t_1 mit der zweiten Hälfte von t_2 ausgetauscht. Der daraus resultierende Cyphertext enthält dann MAC'_k(m_0 || m_1).
 
-2. Siehe 1?
+2. Analog zu 1 nur mit einem Zusatzschritt, da die Reihenfolge hier nicht vertausch werden kann.
